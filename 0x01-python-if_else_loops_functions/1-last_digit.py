@@ -10,7 +10,7 @@ else:
 if remainder > 5:
     print("Last digit of {} is {} and is greater than 5"
           .format(number, remainder))
-    else if remainder is 0:
+else if remainder is 0:
     print("Last digit of {} is {} and is 0"
           .format(number, remainder))
 else:
